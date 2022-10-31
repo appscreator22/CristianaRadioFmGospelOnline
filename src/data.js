@@ -13,12 +13,12 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Fm Gospel",
-            artist: "FmGospel",
+            name:"Kyrios Radio",
+            artist: "KyriosRadio",
             cover: "https://img.freepik.com/vector-gratis/concepto-marco-neon-aire_52683-52393.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "http://server4.hostradios.com:8634/;",
+            audio: "https://radiolatina.info/9946/stream",
             active: false,
         },
         {
